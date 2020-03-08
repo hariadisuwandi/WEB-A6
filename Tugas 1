@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Biodata</title>
+</head>
+<body>
+<form action="#" style="width: 900px"class="posisi";>
+<fieldset class="h"/>
+<table style="width: 700px;">
+<body background ="nunu2.jpeg"> </body>
+
+<tr>
+<td rowspan="15" width="100px">
+<img src="saya.jpg" width="200px" height="300px" border="3">
+</td>
+</tr>
+<center>
+<font size="25px">
+<b><marquee><font color="white">BIODATA</font></marquee></b>
+</font>
+</center>
+<tr>
+<td><b><font color="white">NAMAV</b></td>
+<td><font color="white">:   HARIADI SUWANDIV</td>
+</tr>
+<tr>
+<td><b><font color="white">STAMBUKV</b></td>
+<td><font color="white">:   13020180212</font></td>
+</tr>
+<tr>
+<td><b><font color="white">KELAS</font></b></td>
+<td><font color="white">:   A6</font></td>
+</tr>
+<tr>
+<td><b><font color="white">TEMPAT/TGL LAHIR</font></b></td>
+<td><font color="white">:   SIWA, 22 JULI 1999</font></td>
+</tr>
+<tr>
+<td><b><font color="white">MOTTO</font></b></td>
+<td><font color="white">:   TERUS BERJUANG</font></td>
+</tr>
+<tr>
+<td><b><font color="white">AMALAN SUNNAH YANG DIKERJAKAN</font></b></td>
+<td><font color="white">:   SHOLAT DHUHA</font></td>
+</tr>
+<tr>
+<td><b><font color="white">HOBBY</font></b></td>
+<td><font color="white">:   BERMAIN MUSIK</font></td>
+</tr>
+<tr>
+<td><b><font color="white">ALAMAT SOCIAL MEDIA</font></b></td>
+<td><font color="white">:   <a href='https://web.facebook.com/?_rdc=1&_rdr' target='blank'>Facebook</a>, <a href='https://www.instagram.com/?hl=id' target='blank'>Instagram</a></font></td>
+</tr>
+<tr>
+<td><b><font color="white">MAKANAN KESUKAAN</font></b></td>
+<td><font color="white">:   AYAM GORENG</font></td>
+</tr>
+<tr>
+<td><b><font color="white">NO. HP</font></b></td>
+<td><font color="white">:   082330374003</font></td>
+</tr>
+</body>
+</html>
